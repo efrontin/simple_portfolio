@@ -1,4 +1,5 @@
-https://badgen.net/badge/efrontin/portfolio?icon=github
+
+<img src="https://badgen.net/badge/efrontin/portfolio?icon=github">
 
 ### Projet Simple_portfolio ###
 
