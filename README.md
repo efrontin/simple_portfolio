@@ -1,6 +1,6 @@
 
 <img src="https://badgen.net/badge/efrontin/portfolio?icon=github">
-<img src="https://badgen.net//github/last-commit/micromatch/micromatch">
+<img src="https://badgen.net/github/last-commit/micromatch/micromatch">
 
 ### Projet Simple_portfolio ###
 
